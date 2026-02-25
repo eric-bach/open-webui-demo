@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: teddyai-agent
+Version: 0.1.0
+Summary: A helpful AI assistant
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: aws-opentelemetry-distro>=0.14.2
+Requires-Dist: bedrock-agentcore>=1.2.0
+Requires-Dist: strands-agents>=1.23.0

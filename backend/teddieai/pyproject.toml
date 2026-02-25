@@ -1,0 +1,14 @@
+[project]
+name = "teddieai-agent"
+version = "0.1.0"
+description = "A helpful AI assistant"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aws-opentelemetry-distro>=0.14.2",
+    "bedrock-agentcore>=1.2.0",
+    "strands-agents>=1.23.0",   
+]
+
+[tool.uv]
+package = true
