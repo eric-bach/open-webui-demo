@@ -29,7 +29,7 @@ For Cloud Piggy, the agent is deployed in the Agentic Platform.
 
 ## Usage
 
-1. Open [http://localhost:3000](http://localhost:3000) in your browser
+1. Open [http://localhost:3100](http://localhost:3100) in your browser
 2. Sign up for an account
 3. Log in
 4. Start using Open WebUI
